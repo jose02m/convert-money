@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.tmr",
+  "type": "java.lang.Double",
+  "description": "A description for 'app.tmr'"
+}]}
